@@ -1,4 +1,4 @@
-unsigned long time,lasttime,duration2;
+unsigned long time,lasttime,duration2; //Encoder's code
 const byte encoder0pinA = 2;//A pin -> the interrupt pin 0
 const byte encoder0pinB = 4;//B pin -> the digital pin 4
 byte encoder0PinALast;
